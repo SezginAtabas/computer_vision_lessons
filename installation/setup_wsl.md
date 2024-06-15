@@ -1,6 +1,8 @@
 
 ## Setting Up a WSL Development Environment
 
+**During this process you can use either mamba or conda command they do the same thing, I will use mamba for this guide.**
+
 This guide provides step-by-step instructions for setting up a Windows Subsystem for Linux (WSL) environment, tailored for development purposes.
 
 ### Prerequisites

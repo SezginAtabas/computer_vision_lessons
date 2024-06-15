@@ -1,5 +1,6 @@
 ## Setting Up a macOS Development Environment
 
+**During this process you can use either mamba or conda command they do the same thing, I will use mamba for this guide.**
 
 - **Visual Studio Code**: Install Visual Studio Code. [Download it here](https://code.visualstudio.com/download).
 
@@ -30,7 +31,6 @@
      ```bash
      python3
      import torch
-     torch.cuda.is_available()
      torch.rand(5, 5)
      ```
 ---
