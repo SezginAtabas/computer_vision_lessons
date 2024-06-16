@@ -11,5 +11,5 @@ Before starting this course, it is recommended that you have:
 - Understanding of linear algebra and calculus
 
 ## Resources 
-- [d2l](d2l.ai)
+- [d2l.ai](https://www.d2l.ai/)
 - [Pytorch official Tutorials](https://pytorch.org/tutorials/)
