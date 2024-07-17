@@ -13,3 +13,4 @@ Before starting this course, it is recommended that you have:
 ## Resources 
 - [d2l.ai](https://www.d2l.ai/)
 - [Pytorch official Tutorials](https://pytorch.org/tutorials/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
